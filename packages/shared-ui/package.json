@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "shared-ui",
+  "main": "index.js",
+  "description": "Shared UI components",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

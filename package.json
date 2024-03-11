@@ -1,0 +1,21 @@
+{
+  "name": "mcfe-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "root": "pnpm --filter root-app preview",
+    "product": "pnpm --filter product preview",
+    "about": "pnpm --filter about preview",
+    "cart": "pnpm --filter cart preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@originjs/vite-plugin-federation": "^1.3.5",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
