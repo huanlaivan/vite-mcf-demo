@@ -10,6 +10,7 @@
 
 ### Step 2: Install dependencies
 * Go to inside source folder by `cd <your folder path>`
+* Run command `pnpm install`
 
 ### Step 3: Run project
 * Make sure port `3000` `3001` `3002` and `4001` on your machine are free now.
